@@ -1,4 +1,0 @@
-Title : Formation Java Sopra Steria
-Description:
-    Une formation Fullstack de J2ee et Angular
-    
